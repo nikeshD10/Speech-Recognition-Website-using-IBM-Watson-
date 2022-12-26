@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "SEGA LOGO FONT";
+  src: local("SEGA LOGO FONT") url("../fonts/SEGA.TTF") format("TrueType");
+}
+
+.logo {
+  font-family: "SEGA LOGO FONT";
+  font-weight: 200;
+  color: #0ccac4;
+}
+
+.footer-ul a {
+  display: block;
+  padding-top: 10px;
+  height: 40px;
+  font-size: 24px;
+}

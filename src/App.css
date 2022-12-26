@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* Quick way to hide the scrollbar but still be able to scroll*/
+::-webkit-scrollbar {
+  display: none;
+}
